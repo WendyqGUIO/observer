@@ -1,0 +1,2 @@
+Observador
+observer.interfaz
